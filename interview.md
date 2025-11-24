@@ -16,6 +16,15 @@ Planning → Executing → Monitoring → Delivering projects successfully.
 
 ### Learn these 8 core terms:
 
+SDLC methods step by step
+Planning: Defines the project's purpose, scope, and objectives.
+Analysis: Gathers and documents the specific requirements from stakeholders and users.
+Design: Creates the software's architecture, data flow, and user interface based on the requirements.
+Development (Coding): The actual writing of the software code based on the design specifications.
+Testing: Identifies and fixes bugs to ensure the software is high-quality, robust, and meets all requirements.
+Deployment: Releases the finished software to the production environment for users.
+Maintenance: Provides ongoing support, updates, and improvements to the software after deployment. 
+
 1. **SDLC** – Software Development Life Cycle
 2. **Agile Methodology**
 3. **Scrum Framework**
